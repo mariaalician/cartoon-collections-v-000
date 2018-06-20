@@ -22,6 +22,5 @@ def find_the_cheese(snacks)
     if cheese_types.include?(snack)
       snack
     end
-    nil
   end
 end
